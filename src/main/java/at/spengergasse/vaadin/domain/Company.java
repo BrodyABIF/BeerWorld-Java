@@ -11,6 +11,8 @@ import lombok.ToString;
 @EqualsAndHashCode(callSuper = true)
 public class Company extends AbstractEntity {
 
+
+
     private String name;
 
     public Company() {}
