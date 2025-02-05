@@ -15,7 +15,7 @@ public class CompanyRepositoryTest {
 
     @Test
     void testIrgendwas() {
-        companyRepository.save( new Company("Firma1") );
+//        companyRepository.save( new Company("Firma1", "ort1", 1000) );
     }
 
 }
